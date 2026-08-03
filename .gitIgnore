@@ -1,0 +1,5 @@
+/.venv/*
+data/training/images/*
+data/training/labels.csv
+face_cnn_model.pth
+*.pyc
